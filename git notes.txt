@@ -1,0 +1,23 @@
+git --version
+
+git config --global user.name "Ranganath"
+
+git config --global user.email "vadapalliranganath@gmail.com"
+
+git config --list
+
+git config user.name
+
+git config user.email
+
+pwd
+
+cd <path_repo>
+
+ls
+
+git init
+
+ls -la
+
+
