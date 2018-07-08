@@ -48,6 +48,8 @@ git commit -m "latest changes"
 
 git diff
 
+git diff --staged
+
 
 
 
