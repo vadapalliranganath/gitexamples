@@ -12,7 +12,7 @@ git config user.email
 
 pwd
 
-cd <path_repo>
+cd <path_repo> 
 
 ls
 
@@ -20,4 +20,14 @@ git init
 
 ls -la
 
+// add files
 
+git add .
+
+git commit -m "This is my first commit"
+
+git log
+
+git log --author="Ranganath"
+
+git status
