@@ -44,7 +44,7 @@ git commit -m "give ur commnets"
 
 working copy > staging area > repository
 
-
+git commit -m "updating"
 
 
 
