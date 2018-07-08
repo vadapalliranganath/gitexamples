@@ -48,7 +48,15 @@ git commit -m "latest changes"
 
 git diff
 
+// update some changes
+
+git diff 
+
+git add .
+
 git diff --staged
+
+git rm <file.txt>
 
 
 
