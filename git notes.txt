@@ -30,4 +30,36 @@ git log
 
 git log --author="Ranganath"
 
+//below command to check pending changes to commit 
+
 git status
+
+//supose if you are updating or adding multiple files then use below commands
+
+git add sample.txt
+
+git add .
+
+git commit -m "give ur commnets"
+
+working copy > staging area > repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
